@@ -39,7 +39,9 @@ Use the body to explain what and why you have done something. In most cases, you
 ### Format
 
 > type([optional scope]): subject
+>
 > [optional body]
+>
 > [optional footer]
 
 The scope should be the name of the composant affected.
@@ -47,7 +49,9 @@ The scope should be the name of the composant affected.
 ### Examples
 
 > fix(feeds): Fix RSS URLs in generated feeds
+>
 > feat(app): Add box to choose font-size & family
+>
 > perf: Remove some useless requests in forum
 
 ### More info
